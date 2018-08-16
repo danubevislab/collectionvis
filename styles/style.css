@@ -5,6 +5,7 @@ html {
 
 body {
     font-family: Calibri, Arial, sans-serif;
+    /*font-family: Arial, sans-serif;*/
     margin: 0;
     padding: 0;
 }
@@ -75,6 +76,7 @@ a:visited {
 
 #header {
     padding-bottom: 0;
+    background-color: #ebdccd !important;
 }
 
 #title {
@@ -83,6 +85,7 @@ a:visited {
 }
 
 #title h1 {
+    font-family: Arial, sans-serif;
     float: left;
     margin: 0 0;
 }

@@ -53,7 +53,13 @@ var editable = false;
  * Subtitle describing the paper the data is referring to (set to null to deactivate)
  * @type {{html: string, id: string}}
  */
-var paper = null;
+
+// var paper = {html: 'Visualization of Cultural Heritage Collection Data: State of the Art and Future Challenges', id: 'il'};
+
+var paper = {
+    html: 'Link to the Survey  <b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8352050" target="_blank">(TVCG 2018)</a></b>',
+    id: null
+};
 
 /**
  * Extra pages like an about page that will be listed in the footer an can be opened on demand (page name -> path)
