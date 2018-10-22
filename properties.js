@@ -57,7 +57,7 @@ var editable = false;
 // var paper = {html: 'Visualization of Cultural Heritage Collection Data: State of the Art and Future Challenges', id: 'il'};
 
 var paper = {
-    html: 'Link to the Survey  <b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8352050" target="_blank">(TVCG 2018)</a></b>',
+    html: 'Link to the Survey  <b><a href="http://mariandoerk.de/papers/tvcg2018.pdf" target="_blank">(TVCG 2018)</a></b>',
     id: null
 };
 
