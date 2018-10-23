@@ -59,7 +59,7 @@ var editable = false;
 var paper = {
     // html: 'Link to the Survey  <b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8352050" target="_blank">(TVCG 2018)</a></b>',
     // html: 'Link to the Survey  <b><a href="//mariandoerk.de/papers/tvcg2018.pdf" target="_blank">(TVCG 2018)</a></b>',
-    html: 'Link to the Survey  <b><a href="./data/tvcg2018.pdf" target="_blank">(TVCG 2018)</a></b>',
+    html: 'Link to the Survey  <b><a href="https://github.com/danubevislab/collectionvis/blob/master/data/tvcg2018.pdf" target="_blank">(TVCG 2018)</a></b>',
     id: null
 };
 
